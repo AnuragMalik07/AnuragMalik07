@@ -16,7 +16,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/malikanurag007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/malikanurag007" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/malikanurag007" height="30" width="40" />
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="malikanurag007" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/malikanurag007?trk=profile-badge">Anurag Malik</a></div>
 </p>
 
