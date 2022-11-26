@@ -29,6 +29,10 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AnuragMalik07&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AnuragMalik07&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMalik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blazingfire03&show_icons=true&locale=en&layout=compact" alt="blazingfire03" /></p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=blazingfire03&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragMalik07" /> </p>
