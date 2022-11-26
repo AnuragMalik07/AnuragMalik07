@@ -1,6 +1,7 @@
-
-<h1 align="center">👋 Hi, I’m Anurag Malik</h1>
+<p align="center"><img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="GIF!!" class="center" width="160" heigth="1"></p>
 <hr>
+<h1 align="center">👋 Hi, I’m Anurag Malik</h1>
+
 <h3 align="center">Student,Competitive Coder</h3>
 
 <h4 align="center">
@@ -31,6 +32,8 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AnuragMalik07&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragMalik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnuragMalik07)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blazingfire03&show_icons=true&locale=en&layout=compact" alt="blazingfire03" /></p>
