@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I’m @AnuragMalik07</h1>
+<h1 align="center">👋 Hi, I’m Anurag Malik</h1>
 <hr>
 <h3 align="center">Student,Competitive Coder</h3>
 
@@ -26,6 +26,8 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blazingfire03&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragMalik07" /> </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragMalik07&show_icons=true&theme=transparent)
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blazingfire03&show_icons=true&locale=en&layout=compact" alt="blazingfire03" /></p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=blazingfire03&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragMalik07" /> </p>
